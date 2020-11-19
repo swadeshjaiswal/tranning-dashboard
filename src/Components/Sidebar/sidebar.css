@@ -1,0 +1,10 @@
+.sidebar {
+    position: relative;
+    height: 100vh;
+    width: 260px;
+    z-index: 4;
+    padding-bottom: 100px;
+    background-image: url("sidebarImage.jpg");
+    background-size: cover;
+    background-position: center center
+}
